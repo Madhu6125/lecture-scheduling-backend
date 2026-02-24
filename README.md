@@ -54,22 +54,11 @@ PORT=5000
 ```bash
 npm install
 npm start
-Notes
 
+**Notes**
 Database dump is shared separately as per instructions.
-
 Backend is deployed on Render with production environment variables configured.
 
 
 ---
 
-## ✅ What to do now
-1. Paste **Frontend README** into frontend repo
-2. Paste **Backend README** into backend repo
-3. Commit & push both
-
-When done, tell me:  
-**“README updated”**
-
-Next step:  
-📧 I will prepare the **final HR submission email** (ready to send).
